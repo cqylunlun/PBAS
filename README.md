@@ -1,5 +1,7 @@
 # PBAS
 
+![](figures/PBAS_schematic.png)
+
 **Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection**
 
 _Qiyu Chen, Huiyuan Luo, Han Gao, Chengkan Lv*, Zhengtao Zhang_
@@ -28,7 +30,7 @@ conda create -n pbas_env python=3.9.15
 conda activate pbas_env
 pip install -r requirements.txt
 ```
-Experiments are conducted on NVIDIA GeForce RTX 3090 (24GB).
+Experiments were conducted on NVIDIA GeForce RTX 3090 (24GB).
 Same GPU and package version are recommended. 
 
 ## Data Preparation
@@ -40,7 +42,7 @@ These dataset folders/files follow its original structure.
 - MPDD ([Download link](https://github.com/stepanje/MPDD/))
 
 ## Run Experiments
-Edit `./shell/run-mvtec.sh` to configure arguments `--datapath`, `--classes`, and hyperparameter settings.
+For example, edit `./shell/run-mvtec.sh` to configure arguments `--datapath`, `--classes`, and hyperparameter settings.
 Please modify argument `--test` to 'ckpt' / 'test' to toggle between training and test modes.
 
 ```
@@ -48,7 +50,7 @@ bash run-mvtec.sh
 ```
 
 ## Citation
-Please cite the following paper if the code and dataset help your project:
+Please cite the following paper if the code help your project:
 
 ```bibtex
 @article{chen2024progressive,
