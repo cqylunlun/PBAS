@@ -4,7 +4,7 @@ flags=($(for class in "${classes[@]}"; do echo '-d '"${class}"; done))
 
 cd ..
 python main.py \
-    --gpu 2 \
+    --gpu 0 \
     --seed 0 \
     --test ckpt \
   net \
