@@ -60,8 +60,10 @@ Please cite the following paper if the code help your project:
   title={Progressive Boundary Guided Anomaly Synthesis for Industrial Anomaly Detection},
   author={Chen, Qiyu and Luo, Huiyuan and Gao, Han and Lv, Chengkan and Zhang, Zhengtao},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
-  year={2024},
-  publisher={IEEE}
+  year={2025},
+  volume={35},
+  number={2},
+  pages={1193-1208},
 }
 ```
 
