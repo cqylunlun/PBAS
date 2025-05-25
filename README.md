@@ -68,7 +68,7 @@ Please cite the following paper if the code help your project:
 ```
 
 ## Acknowledgements
-Thanks for the great inspiration from [SimpleNet](https://github.com/DonaldRR/SimpleNet/).
+Thanks for the great inspiration from [SimpleNet](https://github.com/DonaldRR/SimpleNet/) and [GLASS](https://github.com/cqylunlun/GLASS/).
 
 ## License
-The code in this repository is licensed under the [MIT license](https://mit-license.org/).
+The code in this repository is licensed under the [MIT license](https://github.com/cqylunlun/PBAS?tab=MIT-1-ov-file/).
