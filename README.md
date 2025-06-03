@@ -25,6 +25,12 @@ _Qiyu Chen, Huiyuan Luo, Han Gao, Chengkan Lv*, Zhengtao Zhang_
 This repository provides PyTorch-based source code for PBAS,
 a framework that enhances unsupervised anomaly detection by directionally synthesizing significant anomalies
 without predefined texture properties, guided by a progressive decision boundary.
+Here, we present a brief summary of PBAS's performance across several benchmark datasets.
+
+|  PBAS   | MVTec AD | VisA  | MPDD  |
+|:-------:|:--------:|:-----:|:-----:|
+| I-AUROC |  99.8%   | 97.7% | 97.7% |
+| P-AUROC |  98.6%   | 98.6% | 98.8% |
 
 ## Environments
 Create a new conda environment and install required packages.
