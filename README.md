@@ -1,6 +1,7 @@
 # PBAS
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/progressive-boundary-guided-anomaly-synthesis/anomaly-detection-on-mvtec-ad)](https://paperswithcode.com/sota/anomaly-detection-on-mvtec-ad?p=progressive-boundary-guided-anomaly-synthesis)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/progressive-boundary-guided-anomaly-synthesis/anomaly-detection-on-mpdd)](https://paperswithcode.com/sota/anomaly-detection-on-mpdd?p=progressive-boundary-guided-anomaly-synthesis)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/progressive-boundary-guided-anomaly-synthesis/anomaly-detection-on-visa)](https://paperswithcode.com/sota/anomaly-detection-on-visa?p=progressive-boundary-guided-anomaly-synthesis)
 
 ![](figures/PBAS_schematic.png)
